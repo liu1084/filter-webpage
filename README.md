@@ -1,4 +1,4 @@
-#How to download all of website and filter web page fields to database?
+#How to download all pages of a website and filter web page fields to database?
 
 1. download a website using wget
 
